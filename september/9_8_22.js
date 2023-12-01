@@ -1,0 +1,3 @@
+class GridAngle {
+  constructor()
+}
